@@ -6,5 +6,5 @@ Disallow: /flagcheck.php
 Disallow: /checkpoint/
 Disallow: /solutions/
 Disallow: /flag/
-Disallow: /index.html
+Disallow: /webchall.html
 
