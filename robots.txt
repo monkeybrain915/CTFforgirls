@@ -1,0 +1,10 @@
+# Notice: Crawling is prohibited unless you have express written permissions.
+#Contact: The admin to know about your privilages.
+User-agent: CTFplayer
+Disallow: /flags/
+Disallow: /flagcheck.php
+Disallow: /checkpoint/
+Disallow: /solutions/
+Disallow: /flag/
+Disallow: /index.html
+
